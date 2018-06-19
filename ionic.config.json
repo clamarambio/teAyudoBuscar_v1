@@ -1,0 +1,8 @@
+{
+  "name": "teAyudoBuscarV1",
+  "app_id": "cd7a72d2",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
